@@ -1,0 +1,7 @@
+"an action is an object which describes what sort of transformation you want to make to your state."
+
+const action = {
+  type: 'LIKE_TWEET',
+  id: 950788310443724800,
+  uid: 'tylermcginnis'
+}
