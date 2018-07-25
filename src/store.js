@@ -28,7 +28,6 @@ This instantiates the store:
 const store = createStore(app)
 Skip down to STEP 7 below.
 ----------------------------------------------------------------------
-
 */
 
 // Library code
